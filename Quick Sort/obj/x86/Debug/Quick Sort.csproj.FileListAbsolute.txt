@@ -1,0 +1,4 @@
+C:\Users\MAM\AppData\Local\Temporary Projects\Quick Sort\bin\Debug\Quick Sort.exe
+C:\Users\MAM\AppData\Local\Temporary Projects\Quick Sort\bin\Debug\Quick Sort.pdb
+C:\Users\MAM\AppData\Local\Temporary Projects\Quick Sort\obj\x86\Debug\Quick Sort.exe
+C:\Users\MAM\AppData\Local\Temporary Projects\Quick Sort\obj\x86\Debug\Quick Sort.pdb
